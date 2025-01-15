@@ -1,0 +1,130 @@
+.fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 58px 120px;
+    background-color: gainsboro;
+  }
+.banner{
+display: flex;
+justify-content: space-between;
+background-color: rgb(198, 228, 214);
+
+border-radius: 24px;
+}
+.banner-heading{
+    color: #0E0E0E;
+}
+.bt-1{
+  background-color:rgb(0, 106, 80);
+ color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 17px;
+}
+.banner-dp{
+  padding: 80px 100px;
+  width: 400px;height: 400px;
+
+}
+.banner-content{
+  padding: 118px;
+}
+.para{
+  font-weight: 100;
+  font-size: 15px;
+  color: rgba(14, 14, 14, 0.7);
+}
+.vision{
+  font-size: 40px;
+}
+.bt-2{
+  background-color: rgb(84, 144, 245);
+  border: none;
+  color: white;
+  border-radius: 8px;
+}
+.bt-3{
+  background-color: rgb(9, 161, 92);
+  border: none;
+  color: white;
+  border-radius: 8px;
+}
+.bt-4{
+  background-color: rgb(255, 194, 57);
+  border: none;
+  color: white;
+  border-radius: 8px;
+}
+.vision-div{
+  display: flex;
+  gap: 24px;
+}
+.vision-items{
+  padding: 32px;
+  border-radius: 16px;
+}
+#one{
+  background-color: rgba(84, 144, 245, 0.2);
+}
+#two{
+  background-color: rgba(198, 228, 214)
+}
+#three{
+  background-color: rgba(247, 235, 207)
+}
+.ban-news1{
+  display: flex;
+  padding: 40px;
+  background-color: rgb(255, 255, 255);
+border-radius: 24px;
+margin-bottom: 24px;
+}
+.ban-news2{
+  display: flex;
+  padding: 40px;
+  background-color: rgb(255, 255, 255);
+border-radius: 24px;
+margin-bottom: 24px;
+}
+.ban-description{
+  margin-left: 30px;
+}
+.img-sat{
+border-radius: 24px;
+}
+.last-sec{
+text-align: center;
+}
+.ammount{
+  display: flex;
+  justify-content: center;
+  padding: 0 20 ;
+  margin-top: 2px;
+  gap: 24px;
+ 
+}
+.ammount-bt{
+  font-size: 40px;
+  font: weight 600px;
+  padding: 16px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 16px;
+  border: none;
+  cursor:pointer;
+  
+}
+#bt{
+  background-color: rgb(198, 228, 214);
+} 
+.input{
+  text-align: center;
+  margin-top: 5px;
+ 
+}
+.done{
+  margin-top: 15px;
+}
